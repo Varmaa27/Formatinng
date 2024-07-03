@@ -1,0 +1,2 @@
+x='hello'
+print('hello',format('-','-<10'),'world')
